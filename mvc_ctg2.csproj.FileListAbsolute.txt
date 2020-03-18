@@ -1,0 +1,6 @@
+C:\Users\leandro.goncalves\source\repos\mvc_ctg2\mvc_ctg2\bin\Debug\mvc_ctg2.exe.config
+C:\Users\leandro.goncalves\source\repos\mvc_ctg2\mvc_ctg2\bin\Debug\mvc_ctg2.exe
+C:\Users\leandro.goncalves\source\repos\mvc_ctg2\mvc_ctg2\bin\Debug\mvc_ctg2.pdb
+C:\Users\leandro.goncalves\source\repos\mvc_ctg2\mvc_ctg2\obj\Debug\mvc_ctg2.csprojAssemblyReference.cache
+C:\Users\leandro.goncalves\source\repos\mvc_ctg2\mvc_ctg2\obj\Debug\mvc_ctg2.exe
+C:\Users\leandro.goncalves\source\repos\mvc_ctg2\mvc_ctg2\obj\Debug\mvc_ctg2.pdb
